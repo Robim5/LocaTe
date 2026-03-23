@@ -3,7 +3,6 @@
   "cor": "0xFF0072CE",
   "sentido": "Senhor de Matosinhos",
   "tipo_dia": "Domingos e Feriados",
-  "tolerancia_minutos": 2,
   "paragens": [
     {
       "nome": "Estádio do Dragão",
